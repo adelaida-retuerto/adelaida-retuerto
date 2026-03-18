@@ -1,7 +1,5 @@
 ## Hi 👋, I'm Adelaida
 
-**Data Analyst | Alternance 2026 | Marseille/PACA**
-
 Passionate about data analysis, AI and making complex data easy to understand.
 
 - 🔭 I'm currently working on **Data Analysis, Business Intelligence and AI projects**

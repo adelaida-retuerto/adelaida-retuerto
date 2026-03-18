@@ -12,7 +12,7 @@ Passionate about data analysis, AI and making complex data easy to understand.
 ---
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adelaida-retuerto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelaida-retuerto-427195130/)
 
 ---
 

@@ -7,7 +7,9 @@ Passionate about data analysis, AI and making complex data easy to understand.
 - 🔭 I'm currently working on **Data Analysis, Business Intelligence and AI projects**
 - 🌱 I'm currently learning **Gen AI, Machine Learning & Data Visualisation**
 - 🎯 I'm looking for an **alternance Data Analyst from October 2026**
-- 📫 How to reach me : [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](adelaida.retuerto@outlook.com)
+- 📫 How to reach me : adelaida.retuerto@outlook.com
+
+
 
 ---
 

@@ -38,7 +38,7 @@ Analyse EDA de 10 ans de données officielles (RTE, SDES, CRE).
 Prix du kWh +71.7% en 10 ans — les ménages ont-ils vraiment réduit leur consommation ?
 Et la transition solaire : réalité ou marketing ?
 `Python` `pandas` `matplotlib` `4 datasets` `2,8M enregistrements`
-→ [Voir le projet](https://github.com/adelaida-retuerto/energie-france-eda)
+→ [Voir le projet](https://github.com/adelaida-retuerto/Projet-energie-france)
 
 ⚖️ **Projet 2 — Femmes dans l'industrie : 14 ans de données**
 Aéronautique, énergie, défense, sidérurgie, luxe — que disent vraiment les chiffres sur la parité ?
